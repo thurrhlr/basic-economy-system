@@ -1,0 +1,8 @@
+Olá, você irá precisar instalar algumas coisinhas:
+
+Segue abaixo:!
+
+npm i discord.js --save
+npm i dotenv
+npm i quick.db
+npm i pretty-ms
